@@ -1,5 +1,7 @@
 # [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
 
+> **Note:** For the stats to be generated correctly, it is crucial to follow the installation steps below and set up the `ACCESS_TOKEN` secret in your repository. Without a valid token, the stats will not be generated.
+
 <!--
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
 -->
